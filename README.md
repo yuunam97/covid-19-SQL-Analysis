@@ -1,4 +1,4 @@
-# :bar_chart::medical_symbol:microbe:COVID-19 ANALYSIS (SQL + POWER BI Visualization) :microbe::medical_symbol::bar_chart:
+# :bar_chart::medical_symbol::microbe:COVID-19 ANALYSIS (SQL + POWER BI Visualization) :microbe::medical_symbol::bar_chart:
 
 ![Banner](https://github.com/yuunam97/covid-19-SQL-Analysis/blob/main/images/covid-banner.png?raw=true)
 
