@@ -46,7 +46,7 @@ _Please Note! Power BI online publishing link isn't available due to the subscri
 
 2. [COVID-19 Vaccinations](https://app.powerbi.com/reportEmbed?reportId=87b53381-bfe2-42e5-9da2-a640c0f4ac9c&autoAuth=true&ctid=92454335-564e-4ccf-b0b0-24445b8c03f7)
 
-![PowerBI-Vaccinations](https://github.com/yuunam97/stroke-analysis/blob/main/images/powerbi-vaccination.png?raw=true)
+![PowerBI-Vaccinations](https://github.com/yuunam97/stroke-analysis/blob/main/images/powerbi-vaccinations.png?raw=true)
 
 ### Credits
 1. [Coronavirus Pandemic (Our World in Data)](https://ourworldindata.org/coronavirus).
