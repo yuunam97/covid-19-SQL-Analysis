@@ -1,6 +1,6 @@
 # :bar_chart::medical_symbol:microbe:COVID-19 ANALYSIS (SQL + POWER BI Visualization) :microbe::medical_symbol::bar_chart:
 
-![Banner](https://github.com/yuunam97/covid-19-SQL-Analysis/blob/main/covid-banner.png?raw=true)
+![Banner](https://github.com/yuunam97/covid-19-SQL-Analysis/blob/main/images/covid-banner.png?raw=true)
 
 ### Description:
 This analysis aimed to provide a comprehensive understadning of the COVID-19 situation, offering insights into the spread of the virus, its impact on populations, and the progress of vaccination efforts across different regions and countries.
@@ -42,11 +42,11 @@ _Please Note! Power BI online publishing link isn't available due to the subscri
 
 1. [COVID-19 Deaths](https://app.powerbi.com/reportEmbed?reportId=87b53381-bfe2-42e5-9da2-a640c0f4ac9c&autoAuth=true&ctid=92454335-564e-4ccf-b0b0-24445b8c03f7)
 
-![PowerBI-Deaths](https://github.com/yuunam97/covid-19-SQL-Analysis/blob/main/powerbi-deaths.png?raw=true)
+![PowerBI-Deaths](https://github.com/yuunam97/covid-19-SQL-Analysis/blob/main/images/powerbi-deaths.png?raw=true)
 
 2. [COVID-19 Vaccinations](https://app.powerbi.com/reportEmbed?reportId=87b53381-bfe2-42e5-9da2-a640c0f4ac9c&autoAuth=true&ctid=92454335-564e-4ccf-b0b0-24445b8c03f7)
 
-![PowerBI-Vaccinations](https://github.com/yuunam97/stroke-analysis/blob/main/powerbi-vaccination.png?raw=true)
+![PowerBI-Vaccinations](https://github.com/yuunam97/stroke-analysis/blob/main/images/powerbi-vaccination.png?raw=true)
 
 ### Credits
 1. [Coronavirus Pandemic (Our World in Data)](https://ourworldindata.org/coronavirus).
