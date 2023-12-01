@@ -31,14 +31,17 @@ The dataset utilized for this analysis was from [Coronavirus Pandemic (Our World
     - TEMP tables.
     - JOINs.
     - Dynamic SQL
+    - 
 2. Microsoft Power BI to visualize the Top countries with deaths and vaccinations. Also realized that compared to Tableau, it is more customizable in terms of the visuals and more user friendly. The ability to use DAX formulas to create new information was so awesome!
-3. USA has the highest COVID infections and deaths rates. 
-4. Small countries like Bhutan were countries with the highest vaccination rates. This can be explained by their higher vaccinations in their small population. 
-5. Looking at this data, SOUTH AFRICA had 54k deaths with 2 million infected by COVID-19. The fatality rate was 2.43%. About 284K people were vaccinated. 
+   
+4. USA has the highest COVID infections and deaths rates.
+   
+6. Small countries like Bhutan were countries with the highest vaccination rates. This can be explained by their higher vaccinations in their small population.
+   
+8. Looking at this data, SOUTH AFRICA had 54k deaths with 2 million infected by COVID-19. The fatality rate was 2.43%. About 284K people were vaccinated. 
 
 ### Visualizations:
 Using Power BI, the visualizations looks at the following:
-_Please Note! Power BI online publishing link isn't available due to the subscription issues._
 
 1. [COVID-19 Deaths](https://app.powerbi.com/reportEmbed?reportId=87b53381-bfe2-42e5-9da2-a640c0f4ac9c&autoAuth=true&ctid=92454335-564e-4ccf-b0b0-24445b8c03f7)
 
